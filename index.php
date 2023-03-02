@@ -9,9 +9,11 @@
 </head>
 <body>
     <h1>Best sellers</h1>
-    <div class="container"></div>
-     <button class='arrow prev'<img src="images/prev.jpg" alt="prev"></button>
-    <button class='arrow next'<img src="images/next.jpg" alt="next"></button>
+     <div class="container">
+     <button class='arrow prev'><img src="images/prev.jpg" alt="prev"></button>
+    <button class='arrow next'><img src="images/next.jpg" alt="next"></button>
+    </div>
+    <div class="slider"></div>
 </body>
 </html>
 <?php
