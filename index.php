@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Best sellers</h1>
-     <div class="container">
+     <div class="container" id="resource-slider">
      <button class='arrow prev'><img src="images/prev.svg" alt="prev"></button>
     <button class='arrow next'><img src="images/next.svg" alt="next"></button>
     </div>
