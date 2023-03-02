@@ -8,6 +8,9 @@
 </head>
 <body>
     <h1>Best sellers</h1>
+    <div class="container"></div>
+     <button class='arrow prev'></button>
+    <button class='arrow next'></button>
 </body>
 </html>
 <?php
