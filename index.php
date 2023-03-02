@@ -5,12 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="css/theme.css">
 </head>
 <body>
     <h1>Best sellers</h1>
     <div class="container"></div>
-     <button class='arrow prev'><img src="images/prev.jpg" alt="prev"></button>
-    <button class='arrow next'><img src="images/next.jpg" alt="next"></button>
+     <button class='arrow prev'<img src="images/prev.jpg" alt="prev"></button>
+    <button class='arrow next'<img src="images/next.jpg" alt="next"></button>
 </body>
 </html>
 <?php
