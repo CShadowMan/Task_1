@@ -9,8 +9,8 @@
 <body>
     <h1>Best sellers</h1>
     <div class="container"></div>
-     <button class='arrow prev'></button>
-    <button class='arrow next'></button>
+     <button class='arrow prev'><img src="images/prev.jpg" alt="prev"></button>
+    <button class='arrow next'><img src="images/next.jpg" alt="next"></button>
 </body>
 </html>
 <?php
