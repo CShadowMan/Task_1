@@ -10,8 +10,8 @@
 <body>
     <h1>Best sellers</h1>
      <div class="container">
-     <button class='arrow prev'><img src="images/prev.jpg" alt="prev"></button>
-    <button class='arrow next'><img src="images/next.jpg" alt="next"></button>
+     <button class='arrow prev'><img src="images/prev.svg" alt="prev"></button>
+    <button class='arrow next'><img src="images/next.svg" alt="next"></button>
     </div>
     <div class="slider"></div>
 </body>
